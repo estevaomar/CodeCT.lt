@@ -1,6 +1,6 @@
 #  CodeCT
 
-<img width=100% src="https://codect.epizy.com/assets/images/CodeCT.png"/>
+<img width=100% src="https://cdn.discordapp.com/attachments/918185333898743877/1101642023246766190/CodeCT.png"/>
 
     Copyrights - 
 
