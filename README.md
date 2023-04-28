@@ -1,5 +1,7 @@
 #  CodeCT
 
+<img width=100% src="https://codect.epizy.com/assets/images/CodeCT.png"/>
+
     Copyrights - 
 
 MYBB software used for the Forum backend - https://mybb.com
